@@ -1,5 +1,5 @@
 <?php
-// Cachebusters generated on 2025-12-02 07:02:36
+// Cachebusters generated on 2025-12-10 08:43:31
 return [
 	'src/public/dist/i18n-dependency-map-default-lite.json'=> '99914b932bd37a50b983c5e7c90ae93b',
 	'src/public/dist/i18n-dependency-map-default-pro.json'=> '99914b932bd37a50b983c5e7c90ae93b',

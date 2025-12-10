@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.22.62 (2025-12-10)
+
+
+### Bug Fixes
+
+* show media library folders in MailPoet newsletter editor (CU-869bcanq9)
+
+
+
+
+
+
+
+## 4.22.61 (2025-12-04) (not released)
+
+**Note:** This version of the package has not (yet) been released publicly. This happens if changes have been made in dependencies that do not affect this package (e.g. changes for the development of the package). The changes will be rolled out with the next official update.
+
+**Note:** This package (@devowl-wp/real-media-library) has been updated because a dependency, which is also shipped with this package, has changed.
+
+
+<details><summary>Development dependency update @devowl-wp/api 1.5.0</summary>
+
+
+**_Purpose of dependency:_** _Shared typings for all Node.js backends and frontends._
+##### Features
+
+* inital implementation of object-storage package (CU-8697h8axv)
+* introduce contract profiles with predefined internal profile to exclude from OpenAPI (CU-8699tgz5g)</details>
+
+
+
+
+
 ## 4.22.60 (2025-12-02)
 
 
